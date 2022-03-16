@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stepperform/static/css/main.afd7172b.chunk.css",
+    "main.js": "/stepperform/static/js/main.35423b0f.chunk.js",
+    "main.js.map": "/stepperform/static/js/main.35423b0f.chunk.js.map",
+    "runtime-main.js": "/stepperform/static/js/runtime-main.6d3e4f3d.js",
+    "runtime-main.js.map": "/stepperform/static/js/runtime-main.6d3e4f3d.js.map",
+    "static/js/2.c7655726.chunk.js": "/stepperform/static/js/2.c7655726.chunk.js",
+    "static/js/2.c7655726.chunk.js.map": "/stepperform/static/js/2.c7655726.chunk.js.map",
+    "index.html": "/stepperform/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/stepperform/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.c7655726.chunk.js.LICENSE.txt": "/stepperform/static/js/2.c7655726.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d3e4f3d.js",
+    "static/js/2.c7655726.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.35423b0f.chunk.js"
+  ]
+}
